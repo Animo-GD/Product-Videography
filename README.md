@@ -1,5 +1,9 @@
 # Overview
-Using an image and description for your product, and it will return a 10 second realistic video of your product.
+Automated Product Videography Workflow with n8n
+
+- Built an end-to-end product videography automation pipeline using n8n, integrating gpt-oss20B for script generation, gpt-image-1 for product imagery, and Runway for transforming images into 360° product videos.
+
+- Automated video production reduced manual editing effort and enabled scalable, AI-driven content creation for product showcasing.
 
 ## Workflow
 ![n8n workflow](workflow.png)
